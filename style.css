@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&family=Questrial&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: "Playpen Sans", cursive;
+	font-size: 18px;
+}
+h1,h2 {
+	font-family: "Questrial", sans-serif;
+	font-weight: bold;
+	letter-spacing: 5px;
+}
+a{
+	text-decoration: none;
+}
